@@ -20,4 +20,5 @@ Assumptions.
 How to run the Spark Job
 ========================
 1. Use below command to submit the Spark Job
-spark-submit crealutics.py
+
+spark-submit crealytics.py
